@@ -1,0 +1,9 @@
+# Ruby
+/.bundle/
+/Gemfile.lock
+/_site/
+/vendor/
+
+# node.js
+node_modules/
+npm-debug.log
